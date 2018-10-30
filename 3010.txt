@@ -1,0 +1,15 @@
+merubah disk menjadi ssd?
+
+jaringan gunanya untuk 
+
+IPS
+IDS
+
+gitlab - cicd -> tidak perlu ribet dan mempermudah kerja 
+kolaborasi.
+
+gitbash
+
+buat repository.
+isi repository -> tugas-tugas yang kemarin dikerjakan
+
